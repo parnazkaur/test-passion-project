@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+.pnp.*
+
+# Testing
+/coverage
+*.log
+
+# Next.js
+/.next/
+/out/
+.next/
+out/
+
+# Production
+/build
+dist/
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local env files
+.env*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+copy-images.js
+copy-images.sh
+setup-images.py
+SETUP-IMAGES.md
+
+# Lock files (optional - some prefer to commit these)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+

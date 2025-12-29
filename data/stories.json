@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "name": "Priya",
+    "shortDescription": "A young girl who found strength in sharing her story",
+    "fullDescription": "Priya was only eight years old when she was separated from her family. Forced into labor in a textile factory, she worked fourteen-hour days in conditions that no child should ever endure. Despite the darkness she faced, Priya never lost hope. Her story represents the resilience of countless children who continue to fight for their freedom and dignity every day.",
+    "image": "/images/stories/DSC00845.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC00845.jpg",
+      "/images/stories/DSC03043.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "2",
+    "name": "Arjun",
+    "shortDescription": "A boy who dreams of education and freedom",
+    "fullDescription": "Arjun's journey began when he was promised an education in the city. Instead, he found himself trapped in a cycle of exploitation, working in hazardous conditions far from home. His story highlights how false promises are used to lure vulnerable children into trafficking networks. Today, Arjun advocates for awareness and education as tools to prevent trafficking.",
+    "image": "/images/stories/DSC01057.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC01057.jpg",
+      "/images/stories/DSC03044.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "3",
+    "name": "Meera",
+    "shortDescription": "Finding her voice after years of silence",
+    "fullDescription": "Meera spent years in domestic servitude, hidden from the world. Her story sheds light on the invisible nature of many trafficking cases, where children are kept in private homes, their suffering unseen. Meera's courage in speaking out has helped raise awareness about the hidden forms of child trafficking that occur behind closed doors.",
+    "image": "/images/stories/DSC03043.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03043.jpg",
+      "/images/stories/DSC00845.jpg"
+    ],
+    "hasVideo": false
+  },
+  {
+    "id": "4",
+    "name": "Ravi",
+    "shortDescription": "A survivor working to protect others",
+    "fullDescription": "Ravi's experience in forced labor began at a construction site where he worked alongside other children. His story illustrates the systemic nature of child trafficking, where economic exploitation is normalized. Now, Ravi works with organizations to identify and support other children at risk, turning his pain into purpose.",
+    "image": "/images/stories/DSC03044.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03044.jpg",
+      "/images/stories/DSC01057.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "5",
+    "name": "Kavya",
+    "shortDescription": "Breaking free from exploitation",
+    "fullDescription": "Kavya's story is one of survival and strength. Trafficked at a young age, she endured years of exploitation before finding a path to freedom. Her journey represents the complex challenges survivors face in rebuilding their lives. Kavya's story reminds us of the importance of long-term support and rehabilitation for survivors.",
+    "image": "/images/stories/DSC03087.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03087.jpg",
+      "/images/stories/DSC03093.jpg"
+    ],
+    "hasVideo": false
+  },
+  {
+    "id": "6",
+    "name": "Dev",
+    "shortDescription": "A voice for the voiceless",
+    "fullDescription": "Dev was trafficked into agricultural labor, working in fields from dawn to dusk. His story highlights how rural poverty makes children vulnerable to trafficking. Despite the challenges he faced, Dev has become an advocate, using his voice to raise awareness about the conditions that enable child trafficking to persist.",
+    "image": "/images/stories/DSC03093.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03093.jpg",
+      "/images/stories/DSC03094.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "7",
+    "name": "Anjali",
+    "shortDescription": "Reclaiming her childhood",
+    "fullDescription": "Anjali's story began when she was sold by relatives who claimed they were sending her to a better life. Instead, she found herself in a situation of exploitation. Her story demonstrates how family members can sometimes be complicit in trafficking, making it even more difficult for children to escape. Anjali's resilience shows the power of the human spirit to overcome even the most difficult circumstances.",
+    "image": "/images/stories/DSC03094.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03094.jpg",
+      "/images/stories/DSC03087.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "8",
+    "name": "Rohan",
+    "shortDescription": "From victim to advocate",
+    "fullDescription": "Rohan's experience with child trafficking began when he was lured with promises of work that would help his family. Instead, he found himself in a situation of forced labor with no way out. His story illustrates how poverty and lack of opportunity create conditions where trafficking can flourish. Today, Rohan works to prevent other children from falling into similar situations.",
+    "image": "/images/stories/DSC00845.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC00845.jpg",
+      "/images/stories/DSC03043.jpg"
+    ],
+    "hasVideo": false
+  },
+  {
+    "id": "9",
+    "name": "Sita",
+    "shortDescription": "A story of hope and healing",
+    "fullDescription": "Sita's journey through trafficking and recovery highlights the importance of comprehensive support systems. Her story shows that healing is possible, but requires access to education, counseling, and safe spaces. Sita's experience reminds us that every child deserves the opportunity to heal and rebuild their life after trauma.",
+    "image": "/images/stories/DSC01057.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC01057.jpg",
+      "/images/stories/DSC03044.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "10",
+    "name": "Vikram",
+    "shortDescription": "Breaking the cycle of exploitation",
+    "fullDescription": "Vikram was trafficked into street vending, forced to work long hours in dangerous conditions. His story sheds light on how children are exploited in urban settings, often in plain sight. Vikram's determination to break free and help others demonstrates the strength that survivors possess, even after enduring unimaginable hardship.",
+    "image": "/images/stories/DSC03043.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03043.jpg",
+      "/images/stories/DSC00845.jpg"
+    ],
+    "hasVideo": false
+  },
+  {
+    "id": "11",
+    "name": "Lakshmi",
+    "shortDescription": "A voice that cannot be silenced",
+    "fullDescription": "Lakshmi's story represents the countless children whose voices have been suppressed. Trafficked into domestic work, she spent years in isolation. Her courage in sharing her story has helped illuminate the hidden nature of many trafficking cases. Lakshmi's experience reminds us that awareness and action are essential to combat this injustice.",
+    "image": "/images/stories/DSC03044.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03044.jpg",
+      "/images/stories/DSC01057.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "12",
+    "name": "Amit",
+    "shortDescription": "Finding freedom and purpose",
+    "fullDescription": "Amit's experience with child trafficking began when he was separated from his family during a crisis. His story highlights how emergencies and displacement can make children vulnerable to exploitation. Despite the trauma he endured, Amit has found purpose in helping other children access education and opportunities that were denied to him.",
+    "image": "/images/stories/DSC03087.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03087.jpg",
+      "/images/stories/DSC03093.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "13",
+    "name": "Radha",
+    "shortDescription": "Strength in the face of adversity",
+    "fullDescription": "Radha's story illustrates the intersection of gender, poverty, and trafficking. As a young girl from a marginalized community, she faced multiple layers of vulnerability. Her journey from victim to survivor demonstrates the resilience of children who refuse to be defined by their trauma. Radha's story emphasizes the need for gender-sensitive approaches to addressing child trafficking.",
+    "image": "/images/stories/DSC03093.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03093.jpg",
+      "/images/stories/DSC03094.jpg"
+    ],
+    "hasVideo": false
+  },
+  {
+    "id": "14",
+    "name": "Kiran",
+    "shortDescription": "A journey toward justice",
+    "fullDescription": "Kiran's experience with trafficking exposed him to the criminal networks that profit from child exploitation. His story highlights the organized nature of trafficking and the challenges in bringing perpetrators to justice. Kiran's determination to seek justice, despite the risks, shows the courage of survivors who refuse to remain silent.",
+    "image": "/images/stories/DSC03094.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC03094.jpg",
+      "/images/stories/DSC03087.jpg"
+    ],
+    "hasVideo": true
+  },
+  {
+    "id": "15",
+    "name": "Sunita",
+    "shortDescription": "Hope for a better tomorrow",
+    "fullDescription": "Sunita's story is one of hope and transformation. Trafficked at a young age, she endured years of exploitation before finding a path to freedom. Her journey of recovery and rebuilding demonstrates that with proper support, survivors can not only heal but thrive. Sunita's story serves as a reminder that every child deserves protection, support, and the opportunity to dream.",
+    "image": "/images/stories/DSC00845.jpg",
+    "additionalPhotos": [
+      "/images/stories/DSC00845.jpg",
+      "/images/stories/DSC03043.jpg"
+    ],
+    "hasVideo": true
+  }
+]
+
